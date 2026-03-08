@@ -97,12 +97,11 @@ Currently preparing for mid-level infrastructure roles and expanding into contai
 
 ### 🔄 Currently Working On
 
-- [ ] LPIC-2 (Advanced Linux Administration)
 - [ ] Advanced Networking & Troubleshooting
 - [ ] Docker (containerized services)
 - [ ] Infrastructure automation (Ansible)
 - [ ] Python for system administration
-
+- [ ] LPIC-2 (Advanced Linux Administration)
 ---
 
 ### 🎯 Planned Growth
