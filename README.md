@@ -97,10 +97,10 @@ Currently preparing for mid-level infrastructure roles and expanding into contai
 
 ### 🔄 Currently Working On
 
-- [ ] Advanced Networking & Troubleshooting
-- [ ] Docker (containerized services)
-- [ ] Infrastructure automation (Ansible)
-- [ ] Python for system administration
+- [x] Advanced Networking & Troubleshooting
+- [x] Docker (containerized services)
+- [x] Infrastructure automation (Ansible)
+- [x] Python for system administration
 - [ ] LPIC-2 (Advanced Linux Administration)
 ---
 
